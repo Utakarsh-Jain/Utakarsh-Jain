@@ -52,7 +52,7 @@ const developer = {
 
 </div>
 
-##  Commit Activity (Pacman Style!)
+##  Commit Activity
 
 <div align="center">
 	<img src="https://pacman.abozanona.me?username=Utakarsh-Jain&theme=dark" alt="Pacman eating commits" />
