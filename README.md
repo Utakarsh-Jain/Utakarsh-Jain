@@ -58,10 +58,6 @@ const developer = {
 	<img src="https://pacman.abozanona.me?username=Utakarsh-Jain&theme=dark" alt="Pacman eating commits" />
 </div>
 
-<div align="center">
-	<h4> Pac-Man is hungry for more commits! Feed him by contributing daily! </h4>
-</div>
-
 ##  Let's Connect!
 
 <div align="center">
@@ -87,7 +83,7 @@ const developer = {
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs,tailwindp&theme=dark" />
 
 ### Databases & Tools
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github&theme=dark" />
 
 ### Design & Others
 <img src="https://skillicons.dev/icons?i=figma,photoshop,vscode,postman,linux,bash&theme=dark" />
@@ -95,24 +91,24 @@ const developer = {
 </div>
 
 <details>
-<summary>🔍 <strong>View Detailed Skills</strong></summary>
+<summary> <strong>View Detailed Skills</strong></summary>
 
-### 💻 Programming Languages
+### Programming Languages
 ```yaml
 Expert:     Java, JavaScript
 Advanced:   Python, HTML5, CSS3
 Learning:   TypeScript, MongoDb
 ```
 
-### 🚀 Frameworks & Technologies  
+### Frameworks & Technologies  
 ```yaml
 Frontend:   React.js, Next.js, Tailwind CSS,TypeScript
 Backend:    Node.js, Express.js, FastAPI  
 Database:   MongoDB, MySQL, PostgreSQL
-DevOps:     Docker, AWS, Firebase, Vercel
+DevOps:     AWS, Firebase, Vercel
 ```
 
-### 🎨 Design & Tools
+### Design & Tools
 ```yaml
 Design:     Figma, Adobe XD, Canva, Photoshop
 Tools:      Git, VS Code, Postman
