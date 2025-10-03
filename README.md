@@ -29,7 +29,7 @@
 const developer = {
   name: "Utakarsh Jain",
   location: "India 🇮🇳",
-  currentlyListening: "Lofi Hip Hop 🎧",
+  currentlyListening: "Old Hindi Songs 🎧",
   workingOn: "Something amazing...",
   availableForHire: true,
   teaLevel: "☕☕☕"
