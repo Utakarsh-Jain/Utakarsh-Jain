@@ -18,7 +18,7 @@
 ### What I'm Working On
 -  **Deep Diving**: Advanced DSA
 -  **Building**: Full-stack applications with modern tech
--  **Exploring**: AI/ML integration in web apps
+-  **Exploring**: AI/ML integration in web applications
 -  **Collaborating**: Open source contributions
 
 </td>
