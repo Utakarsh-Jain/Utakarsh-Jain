@@ -48,7 +48,7 @@ const developer = {
 |------------|----------------|----------------|
 | **Morph** | AI-powered document redaction system for sensitive data protection | `Python` `OpenCV` `Deep Learning` `FastAPI` |
 | **srmxpress** | Smart cab pooling platform connecting SRM students for efficient rides | `React` `Node.js` `MongoDB` `Socket.io` |
-| **bank+** | Enterprise-grade banking system with advanced transaction management | `TypeScript` `MySQL` `Express` `JWT` |
+| **Bank+** | Enterprise-grade banking system with advanced transaction management | `TypeScript` `MySQL` `Express` `JWT` |
 
 </div>
 
