@@ -16,7 +16,7 @@
 <td width="50%">
 
 ### What I'm Working On
--  **Deep Diving**: Advanced DSA
+-  **Deep Diving**: Advanced DSA using Java
 -  **Building**: Full-stack applications with modern tech
 -  **Exploring**: AI/ML integration in web applications
 
